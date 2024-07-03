@@ -1,10 +1,15 @@
-h1 {
-    color: rgb(255, 0, 0);
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: cadetblue;
     text-align: center;
-    font-size: 500%;
-    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
 }
 
-div{
+.div1 {
 
+}
+
+p {
+    display: block;
+    text-align: center;
 }
